@@ -43,9 +43,6 @@ A special thanks to the unofficial testers and level strategists who helped shap
 - Zeby Faustin
 
 Thanks for playing, testing and helping make Blocko what it is!
-
-## Screenshots
-
 ## Screenshots
 
 ### Title Screen
